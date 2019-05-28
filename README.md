@@ -1,2 +1,3 @@
 # Kaggle-Challenges
-My models and codes for some Kaggle challenges
+# Tcs salt identification Challenge
+This Branch includes all the different models and methods that I have used for the TCS Salt Identification Challenge
