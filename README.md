@@ -1,3 +1,3 @@
 # Kaggle-Challenges
-# Tcs salt identification Challenge
+# Tgs salt identification Challenge
 This Branch includes all the different models and methods that I have used for the TCS Salt Identification Challenge
